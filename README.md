@@ -26,8 +26,15 @@ With hands-on experience as a **Data Analyst Intern** and multiple real-world pr
 
 ## 🧩 Projects
 
-### 📌 [Bitrix24 Priority Lead Management System](https://github.com/PRANAVJ2804/bitrix24-priority-lead)
+### 🤖 [Phoenix Admission Tracker Bot](https://github.com/PRANAVJ2804/phoenix-admission-bot)
 🗓️ *July 2026*
+- Built a real-time WhatsApp reporting bot using **Python + Selenium** that monitors Google Sheets for new student admissions and auto-posts formatted scorecards to WhatsApp groups — eliminating manual reporting for 3 sales teams (35+ counsellors).
+- Engineered a Google Sheets API integration with multi-section sheet parsing, transient error retry logic, and per-team admission tracking — detecting new entries within 60 seconds and triggering group-specific reports after a 5-minute accumulation window.
+- Developed a parallel **Google Apps Script** module that auto-segregates admitted students into university-specific sheets (DSU, VIT, SMU/MUJ, D Y Patil) by month, with phone + email based duplicate detection and one-click bulk backfill.
+- Shipped 3 report types — weekly scorecards, monthly counters, and a live 100-admission countdown — with 65+ rotating multilingual motivational quotes, posted across 2 WhatsApp groups on a fully automated schedule.
+
+### 📌 [Bitrix24 Priority Lead Management System](https://github.com/PRANAVJ2804/bitrix24-priority-lead)
+🗓️ *June 2026*
 - Built a Bitrix24 CRM local application (Lead detail tab widget) enabling counsellors to flag high-value leads as "Priority," directly inside the CRM workflow.
 - Designed and implemented enforcement logic for a per-counsellor priority cap and a time-based removal freeze, with automatic release on defined terminal pipeline stages (e.g. Admission Completed, Junk).
 - Integrated with Bitrix24's REST API and BX24 JS SDK (`crm`, `user_brief`, `placement` scopes) for real-time field read/write, entity navigation, and self-service tab installation via `placement.bind`.
