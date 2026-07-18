@@ -25,6 +25,14 @@ With hands-on experience as a **Data Analyst Intern** and multiple real-world pr
 ---
 
 ## 🧩 Projects
+
+### 📌 [Bitrix24 Priority Lead Management System](https://github.com/PRANAVJ2804/bitrix24-priority-lead)
+🗓️ *July 2026*
+- Built a Bitrix24 CRM local application (Lead detail tab widget) enabling counsellors to flag high-value leads as "Priority," directly inside the CRM workflow.
+- Designed and implemented enforcement logic for a per-counsellor priority cap and a time-based removal freeze, with automatic release on defined terminal pipeline stages (e.g. Admission Completed, Junk).
+- Integrated with Bitrix24's REST API and BX24 JS SDK (`crm`, `user_brief`, `placement` scopes) for real-time field read/write, entity navigation, and self-service tab installation via `placement.bind`.
+- Focused on lead-governance discipline — helping the counselling team concentrate effort on their highest-value leads without manual tracking.
+
 ### 🦠 [Global COVID-19 Clinical Trials Analysis](https://github.com/PRANAVJ2804/COVID-19-Clinical-Trials)
 - Analyzed global COVID-19 clinical trial data using Python and SQL.  
 - Developed a Random Forest model to predict trial outcomes.  
