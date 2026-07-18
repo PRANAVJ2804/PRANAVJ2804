@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Pranav J  
-
 🎯 **Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast**  
 📍 Bengaluru, Karnataka, India  
 📧 [pranavjagadeesha17@gmail.com](mailto:pranavjagadeesha17@gmail.com)  
@@ -8,9 +7,8 @@
 ---
 
 ## 🧠 About Me
-I’m a **data-driven problem solver** passionate about extracting actionable insights from data.  
+I'm a **data-driven problem solver** passionate about extracting actionable insights from data.  
 Currently pursuing **Data Science and Analytics** at **Masai School**, I specialize in building analytical models, visualizations, and end-to-end data solutions using Python, SQL, and Power BI.  
-
 With hands-on experience as a **Data Analyst Intern** and multiple real-world projects, I enjoy transforming complex datasets into meaningful insights that drive business decisions.
 
 ---
@@ -21,12 +19,12 @@ With hands-on experience as a **Data Analyst Intern** and multiple real-world pr
 - **Visualization Tools:** Power BI, Tableau, Matplotlib, Seaborn  
 - **Data Engineering:** ETL, Data Modeling, Data Cleaning  
 - **Libraries & Frameworks:** Pandas, NumPy, TensorFlow  
+- **Automation:** Google Apps Script, Python-based workflow automation, CRM (Bitrix24) integrations  
 - **Other Tools:** Advanced MS Excel, Git, GitHub  
 
 ---
 
 ## 🧩 Projects
-
 ### 🦠 [Global COVID-19 Clinical Trials Analysis](https://github.com/PRANAVJ2804/COVID-19-Clinical-Trials)
 - Analyzed global COVID-19 clinical trial data using Python and SQL.  
 - Developed a Random Forest model to predict trial outcomes.  
@@ -40,6 +38,13 @@ With hands-on experience as a **Data Analyst Intern** and multiple real-world pr
 ---
 
 ## 💼 Experience
+
+### 📈 Lead Analyst — Phoenix Online Education *(March 2027 – Present)*
+- Extract and segregate quality leads to improve pipeline efficiency and conversion focus for the counselling team.  
+- Act as a key decision-maker within the organization, shaping lead-management and growth strategy.  
+- Contributed to building and maintaining the company website, **[phoenixonlineeducation.com](https://phoenixonlineeducation.com)**.  
+- Worked as a digital marketer — analyzed website performance and drove measurable growth through data-informed strategy.  
+- Built numerous automations using **Python** and **Google Apps Script** to streamline CRM (Bitrix24) workflows — including lead recreation, lead redistribution, dispatch/allocation systems, and reporting dashboards — significantly reducing manual lead-management work across the team.
 
 ### 🧮 Data Scientist — Unified Mentor Pvt Ltd *(July 2025 – Oct 2025)*  
 - Completed 4+ end-to-end analytics projects involving data preprocessing, visualization, and ML model development.  
@@ -71,8 +76,8 @@ Communication | Problem Solving | Team Collaboration | Adaptability
 
 ---
 
-## 📫 Let’s Connect!
-I’m always open to collaboration, learning, and exciting data challenges.  
+## 📫 Let's Connect!
+I'm always open to collaboration, learning, and exciting data challenges.  
 📧 [pranavjagadeesha17@gmail.com](mailto:pranavjagadeesha17@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pranav-j-097603260/)  
 🔗 [GitHub](https://github.com/PRANAVJ2804)
