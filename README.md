@@ -26,7 +26,7 @@ With hands-on experience as a **Data Analyst Intern** and multiple real-world pr
 
 ## 🧩 Projects
 
-### 🤖 [Phoenix Admission Tracker Bot](https://github.com/PRANAVJ2804/phoenix-admission-bot)
+### 🤖 [Phoenix Admission Tracker Bot](https://github.com/PRANAVJ2804/PhoenixBot)
 🗓️ *July 2026*
 - Built a real-time WhatsApp reporting bot using **Python + Selenium** that monitors Google Sheets for new student admissions and auto-posts formatted scorecards to WhatsApp groups — eliminating manual reporting for 3 sales teams (35+ counsellors).
 - Engineered a Google Sheets API integration with multi-section sheet parsing, transient error retry logic, and per-team admission tracking — detecting new entries within 60 seconds and triggering group-specific reports after a 5-minute accumulation window.
