@@ -54,7 +54,7 @@ With hands-on experience as a **Data Analyst Intern** and multiple real-world pr
 
 ## 💼 Experience
 
-### 📈 Lead Analyst — Phoenix Online Education *(March 2027 – Present)*
+### 📈 Senior Lead Analyst — Phoenix Online Education *(March 2027 – Present)*
 - Extract and segregate quality leads to improve pipeline efficiency and conversion focus for the counselling team.  
 - Act as a key decision-maker within the organization, shaping lead-management and growth strategy.  
 - Contributed to building and maintaining the company website, **[phoenixonlineeducation.com](https://phoenixonlineeducation.com)**.  
