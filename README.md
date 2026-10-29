@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pranav J  
-🎯 **Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast**  
+🎯 **Senior Lead Analyst at Phoenix Online Education | Business Analytics & Intelligence | CRM Integration | Process Automation | Digital Analytics**  
 📍 Bengaluru, Karnataka, India  
 📧 [pranavjagadeesha17@gmail.com](mailto:pranavjagadeesha17@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pranav-j-097603260/) | [GitHub](https://github.com/PRANAVJ2804)
